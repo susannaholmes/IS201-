@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.common {
+    background-color: rgb(149, 167, 200);
+    border: 2px solid white;
+    position: absolute;
+    color: black;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 300px;
+}
+
+.mainbody { 
+    top: 314px;
+    left: 5px;
+    right: 5px;
+    height: 1300px;
+}
+
+.footer { 
+    top: 1900px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+}
